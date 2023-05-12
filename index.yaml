@@ -3,7 +3,17 @@ entries:
   nebula-run:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-05-11T07:39:30.726676518Z"
+    created: "2023-05-12T06:33:30.63487242Z"
+    description: nebula run
+    digest: 2ca0222b0700d1d493d7adcd5f41fb5a783bed825122105e13fe3c721e5c5973
+    name: nebula-run
+    type: application
+    urls:
+    - nebula-run-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-05-12T06:33:30.633668359Z"
     description: nebula run
     digest: c1d91cb3e96fae577fbfbcd01ec9d2b651c776b62ac6a9cd543bcfc66e55b85b
     name: nebula-run
@@ -11,4 +21,4 @@ entries:
     urls:
     - nebula-run-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-11T07:39:30.726032916Z"
+generated: "2023-05-12T06:33:30.632823916Z"
